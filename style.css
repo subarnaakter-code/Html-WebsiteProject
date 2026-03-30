@@ -167,11 +167,13 @@
   padding: 20px;
   background-color: palegoldenrod;
   height: 200px;
+  border-radius: 10px;
 }
 .box2{
   padding: 20px;
   background-color: lightpink;
   height: 200px;
+  border-radius: 10px;
 }
 
 .middle{
@@ -179,6 +181,7 @@
   background-color: darkgrey;
   flex-direction: row;
   width: 230px;
+  border-radius: 10px;
 }
 
 
@@ -192,6 +195,7 @@
   width: 230px;
   height: 126px;
   padding: 20px;
+  border-radius: 10px;
   
 }
 .box4{
@@ -199,12 +203,14 @@
   width: 230px;
   height: 126px;
   padding: 20px ;
+  border-radius: 10px;
 }
 .box5{
   background-color: lightcyan;
   width: 230px;
   height: 126px;
   padding: 20px ;
+  border-radius: 10px;
 }
 .right-2{
   display: flex;
@@ -216,12 +222,14 @@
   width: 230px;
   height: 200px;
   padding: 20px;
+  border-radius: 10px;
 }
 .box7{
   background-color: palegoldenrod;
   width: 230px;
   height: 200px;
   padding: 20px;
+  border-radius: 10px;
 }
 .courses-categories{
   background-color: #f4f4f4;
