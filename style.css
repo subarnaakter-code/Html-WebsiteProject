@@ -170,7 +170,7 @@
 .hero{
   background-color: white;
   display: flex;
-  gap: 20px;
+  gap: 15px;
   padding: 10px;
   
 }
@@ -179,41 +179,44 @@
 .left{
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 15px;
  
 }
 .box1{
   padding: 20px;
   background-color: papayawhip;
-  height: 200px;
+  width: 230px;
+  height: 197px;
   border-radius: 10px;
 }
 .box2{
   padding: 20px;
   background-color: lightpink;
-  height: 200px;
+  width: 230px;
+  height: 197px;
   border-radius: 10px;
 }
 
 .middle{
-  padding: 10px;
+ 
   background-color: #AEB8C5;
   flex-direction: row;
+  height: 410px;
   width: 230px;
   border-radius: 10px;
-  padding-left: 20px;
+  padding: 20px;
 }
 
 
 .right{
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 15px;
 }
 .box3{
   background-color: papayawhip;
   width: 230px;
-  height: 126px;
+  height: 127px;
   padding: 20px;
   border-radius: 10px;
   
@@ -221,33 +224,33 @@
 .box4{
   background-color: lightpink;
   width: 230px;
-  height: 126px;
+  height: 127px;
   padding: 20px ;
   border-radius: 10px;
 }
 .box5{
   background-color: lightcyan;
   width: 230px;
-  height: 126px;
+  height: 127px;
   padding: 20px ;
   border-radius: 10px;
 }
 .right-2{
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 15px;
 }
 .box6{
   background-color: lightcyan;
   width: 230px;
-  height: 200px;
+  height: 197px;
   padding: 20px;
   border-radius: 10px;
 }
 .box7{
   background-color: papayawhip;
   width: 230px;
-  height: 200px;
+  height: 197px;
   padding: 20px;
   border-radius: 10px;
 }
